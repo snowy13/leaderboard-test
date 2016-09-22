@@ -1,0 +1,12 @@
+{
+  "name": "leaderboard",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "eris-contracts": "^0.13.3",
+    "meteor-node-stubs": "^0.2.3",
+    "prompt": "^1.0.0"
+  }
+}
